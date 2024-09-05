@@ -37,4 +37,4 @@
 
 
 ### Result:
-Thus, sentimental analysis for the given data using Rapidminer is done successfully.
+Thus, sentimental analysis for any data set using Rapidminer is done successfully.
